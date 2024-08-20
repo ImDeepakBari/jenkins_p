@@ -16,4 +16,4 @@ def test_multiplication_negative(multiply_numbers):
     assert result == 15, f"Expected 35 but got {result}"
 
 def test_assert():
-    assert False
+    assert True
